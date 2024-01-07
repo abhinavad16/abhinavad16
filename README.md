@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Full-Stack Developer .</h3>
 
 # 💫 About Me:- 
-🌱 I’m currently learning **Data Structures and Algorithms.**<br><br>- 👯 I’m looking to collaborate on **OpenSource Projects**<br><br>- 📫 How to reach me **abhinavdonadkar800@gmail.com**<br><br>- ⚡ Fun fact **I am lazy but smart. **
+🌱 I’m currently learning **Data Structures and Algorithms.**<br><br> 👯 I’m looking to collaborate on **OpenSource Projects**<br><br> 📫 How to reach me **abhinavdonadkar800@gmail.com**<br><br> ⚡ Fun fact **I am lazy but smart. **
 
 
 ## 🌐 Socials:
