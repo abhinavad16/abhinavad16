@@ -3,67 +3,27 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhinav</h1>
 <h3 align="center">I'm a passionate Back-End Developer .</h3>
 
-
-## 1. 🙋‍♂️ About Me
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me **abhinavdonadkar800@gmail.com**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
-
-## 2. Familiar Tech Stack:
-
-<!-- coding boy -->
-<img width="40%" align="right" alt="Coding Boy" src="https://github.com/sanajitjana/sanajitjana/blob/master/coding.gif?raw=true" />
-
-<!-- language -->
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,js,html,css)]()
-
-<br/>
-
-## 3. Used Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,netlify,heroku,vscode,sts)]()
+# 💫 About Me:
+- 🌱 I’m currently learning **Data Structures and Algorithms.**<br><br>- 👯 I’m looking to collaborate on **OpenSource Projects**<br><br>- 📫 How to reach me **abhinavdonadkar800@gmail.com**<br><br>- ⚡ Fun fact **I am lazy but smart. **
 
 
-<br />
-<br />
-<br />
-<br />
-<br><br>
-<h2 align="center">📊 My Github Stats<h2>
-<div>
- <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=suraj-996&theme=tokyonight&border_radius=10" alt="Suraj" height="250px" width="47%" />
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=suraj-996&show_icons=true&theme=tokyonight&border_radus=10" height="255px" width="47%"/>
-<div>
-  </br>
-  
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavad16&theme=tokyonight" alt="abhinav" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=abhinavad16&theme=tokyonight&hide_border=true&area=true&border_radus=10" height="255px" width="70%"/>
-<div>
-<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhinav-donadkar-5aa9601b6/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/abhiiiinavv) 
 
-![Profile views](https://gpvc.arturio.dev/abhinavad16)  
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abhinavad16&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhinavad16&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavad16&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
- ![](./profile-3d-contrib/profile-night-green.svg)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abhinavad16&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 4. Connect with me:
-<p align="left">
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<a href = "https://www.linkedin.com/in/abhinav-donadkar-5aa9601b6//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/abhiiiinavv"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/abhinav.1600/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+---
+[![](https://visitcount.itsvg.in/api?id=abhinavad16&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-</p>
-
-## 5. ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=abhinavad16">
-</a>
-<a href="https://github.com/abhinavad16?tab=followers"><img src="https://img.shields.io/github/followers/abhinavad16?label=Followers&style=social" alt="GitHub Badge"></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
