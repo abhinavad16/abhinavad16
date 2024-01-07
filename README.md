@@ -3,7 +3,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhinav</h1>
 <h3 align="center">I'm a passionate Full-Stack Developer .</h3>
 
-# 💫 About Me:- 🌱 I’m currently learning **Data Structures and Algorithms.**<br><br>- 👯 I’m looking to collaborate on **OpenSource Projects**<br><br>- 📫 How to reach me **abhinavdonadkar800@gmail.com**<br><br>- ⚡ Fun fact **I am lazy but smart. **
+# 💫 About Me:- 
+🌱 I’m currently learning **Data Structures and Algorithms.**<br><br>- 👯 I’m looking to collaborate on **OpenSource Projects**<br><br>- 📫 How to reach me **abhinavdonadkar800@gmail.com**<br><br>- ⚡ Fun fact **I am lazy but smart. **
 
 
 ## 🌐 Socials:
